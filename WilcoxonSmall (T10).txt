@@ -1,0 +1,3 @@
+Dataset:	BGWO1		BGWO2
+GA:			0.681		1.000		
+PSO:		0.658		0.912		

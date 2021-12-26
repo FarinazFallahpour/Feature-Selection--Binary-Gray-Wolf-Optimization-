@@ -1,0 +1,4 @@
+Table(10): The Wilcoxon test for the average fitness obtained by the different optimizers
+Dataset:	BGWO1		BGWO2
+GA:			0.658		0.924		
+PSO:		0.740		1.000		
